@@ -1,0 +1,5 @@
+= 原文章已迁移
+
+video::chiken.mp4[width=640,opts=autoplay]
+
+新链接： link:up.mp4[]
