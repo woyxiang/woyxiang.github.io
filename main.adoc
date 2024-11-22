@@ -2,4 +2,4 @@
 
 video::chiken.mp4[width=640,opts=autoplay]
 
-新链接： link:up.mp4[]
+link:UP.html[新链接]
